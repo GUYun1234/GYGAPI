@@ -1,7 +1,7 @@
 {
-    "versionCode":230110,
-    "updateDate":"2023-1-10",
-    "change":"-基于Mufeng框架以及MDUI",
+    "versionCode":231012,
+    "updateDate":"2023-1-12",
+    "change":"-基本已经写完除了接口详情没写",
     "note":"编写作者2452148391<br>欢迎加群 764520287",
     "spinner":"display: none !important;"
 }
