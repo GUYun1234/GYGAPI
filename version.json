@@ -2,6 +2,6 @@
     "versionCode":231016,
     "updateDate":"2023-1-16",
     "change":"-修复登录若再次出现网络错误就是你们的问题了<br>-修复调用API时不调用<br>-版本更新时我会发你新的模板",
-    "note":"如何安装：<br>1.前往数据库删除<font color="red">gygapi_config</font>这个数据库,删除之后<font color="red">备份所有关于API的数据库</font><br>2.导入模板覆盖之前的模板然后按照安装系统安装<br>3.安装完成前往数据库<font color="red">导入之前备份的数据库</font><br>4.至于<font color="red">gygapi_config</font>这个数据库就是网站配置的你在改改就好<br><font color="red">温馨提醒：<br>请勿删除我留的版权否则废除一切免费更新和售后服务</font><br>编写作者2452148391<br>欢迎加群 764520287",
+    "note":"如何安装：<br>1.前往数据库删除gygapi_config这个数据库,删除之后备份所有关于API的数据库<br>2.导入模板覆盖之前的模板然后按照安装系统安装<br>3.安装完成前往数据库导入之前备份的数据库<br>4.至于gygapi_config这个数据库就是网站配置的你在改改就好<br>温馨提醒：<br>请勿删除我留的版权否则废除一切免费更新和售后服务<br>编写作者2452148391<br>欢迎加群 764520287",
     "spinner":"display: none !important;"
 }
